@@ -1897,3 +1897,19 @@
   .starter-section {
     /* Add your styles here */
   }
+
+  .service-item ul li{
+    font-size: 18px;
+  }
+
+  .single-well p{
+    font-size: 20px;
+  }
+
+  .single-well h3{
+    font-size: 22px;
+  }
+  .footer-head p{
+    font-size:16px;
+    margin:0;
+  }
